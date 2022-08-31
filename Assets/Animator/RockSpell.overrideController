@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RockSpell
+  m_Controller: {fileID: 9100000, guid: 508390defb68cc14c97ff5d58a3a7b4f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: eb6010e7d7d2c2743a06a240ba5a995a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f5a7be5862d381240a14c9ad6e9cf72a, type: 2}
